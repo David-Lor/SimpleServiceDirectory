@@ -1,0 +1,30 @@
+
+body{
+  /*background-color: darkslategray;*/
+}
+
+.jumbotron {
+  padding: 5pt 5pt 5pt 5pt;
+}
+
+.section {
+  background-color: mediumseagreen;
+  padding: 5pt 5pt 5pt 5pt;
+  width: 50%;
+  margin: 0 auto;
+  margin-bottom: 10pt;
+}
+.element {
+  background-color: mintcream;
+  padding-left: 15pt;
+  margin-left: 10pt;
+  margin-right: 10pt;
+}
+
+.element-description {
+  padding-left: 20pt;
+}
+
+.title {
+  /*color: whitesmoke;*/
+}

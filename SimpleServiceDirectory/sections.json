@@ -1,0 +1,52 @@
+[
+	{
+		"sectionName" : "Server Tools",
+		"elements" : [
+			{
+				"title" : "Portainer.io",
+				"description" : "Docker web interface",
+				"url" : "http://192.168.0.99:9000"
+			},
+			{
+				"title" : "Webmin",
+				"description" : "Server management",
+				"url" : "https://192.168.0.99:10000"
+			},
+			{
+				"title" : "NetData",
+				"description" : "Server stats",
+				"url" : "http://192.168.0.99:19999"
+			}
+		]
+	},
+	{
+		"sectionName" : "Torrents",
+		"elements" : [
+			{
+				"title" : "Transmission",
+				"description" : "Torrent seeding",
+				"url" : "http://192.168.0.99:9091"
+			},
+			{
+				"title" : "rTorrent",
+				"description" : "",
+				"url" : "https://192.168.0.99:8080/rutorrent"
+			}
+		]
+	},
+	{
+		"sectionName" : "Others",
+		"elements" : [
+			{
+				"title" : "Node-Red",
+				"description" : "Node-Red flow manager",
+				"url" : "http://192.168.0.99:1880"
+			},
+			{
+				"title" : "Node-Red Web",
+				"description" : "Node-Red Web Dashboard frontend",
+				"url" : "http://192.168.0.99:1880/ui"
+			}
+		]
+	}
+]

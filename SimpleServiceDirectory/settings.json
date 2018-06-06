@@ -1,0 +1,8 @@
+{
+	"route" : "/",
+	"host" : "127.0.0.1",
+	"port" : 8080,
+	"debug" : 0,
+
+	"pageTitle" : "Server Directory"
+}
